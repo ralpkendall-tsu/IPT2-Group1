@@ -1,4 +1,5 @@
 Hello, World!
+Goodbye, World
 KAHIT ANO.
 Hello!
 PKJ
